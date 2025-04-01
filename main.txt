@@ -1,0 +1,20 @@
+pushbullet_id=o.EYCvf36Xct3SVMIv8Ds1cstV6qz2ZhMe
+repeat_notification=0
+notification_delay=60
+scan_delay=10
+
+-name=NBHM
+-url=https://www.imsc.res.in/~nbhm/
+-all
+
+-name=NBHM Final List
+-url=https://www.imsc.res.in/~nbhm/ST_2025/D_select.html
+-find=Drishti
+
+-name=CSIR NET
+-url=https://csirnet.nta.ac.in/
+-all
+
+-name=IMSc
+-url=https://www.imsc.res.in/phd_programme_mathematics
+-rem=1:27439
